@@ -1,0 +1,14 @@
+body{
+	background-color: #202020;
+}
+
+.wrapper
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width:90%;
+}
+
+/* This file is strictly so the demo index page doesn't look so bad. Please ignore! */
